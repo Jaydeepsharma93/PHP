@@ -29,3 +29,10 @@ A simple and efficient **CRUD (Create, Read, Update, Delete)** web application b
 ![Screenshot 2024-11-22 122107](https://github.com/user-attachments/assets/b8729c9f-6d6a-4333-8083-333ec0708c4f)
 
 https://github.com/user-attachments/assets/2ed96ea1-da89-431d-afee-854e5d7bf60b
+
+
+https://github.com/user-attachments/assets/3e4b71cc-8aa1-4e9b-9a53-ec213ef7a5ad
+
+
+
+
